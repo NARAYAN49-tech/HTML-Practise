@@ -1,0 +1,58 @@
+#h11{
+    color: rgb(113, 187, 99);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h11{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#submit1,#submit2,#submit3,#submit4,#submit5{
+    background-color: rgba(51, 43, 43, 0.023);
+}
+.same{
+    color: rgb(113, 187, 99);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#no{
+    color: rgb(148, 225, 132);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#side{
+    background-color: rgba(192, 187, 187, 0.635);
+    padding: 5px;
+}
+#p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#a1,#a2,#a3,#a4,#no,#a12{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#body{
+    height: 800px;
+    width: 800px;
+    
+    border: 10px ;
+    
+    padding-top: 15px 5px 10px 5px;
+}
+#contain{
+    border: 10px;
+    border-color: black;
+
+    border-radius: 5px;
+    padding-top: 15px 5px 10px 5px;
+
+}
+.h4{
+    color:  rgb(113, 187, 99);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#font{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}

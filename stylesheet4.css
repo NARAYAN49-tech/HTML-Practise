@@ -1,0 +1,30 @@
+#black{
+    background-color:black;
+    border-color: white;
+    padding: 5px;
+    border: 5px;
+    height: 650px;
+    width: 900px;
+
+}
+#div1{
+    color: rgb(105, 198, 105);
+}
+.green{
+    color: rgb(105, 198, 105);
+}
+.white{
+    color: white;
+    border: 15px white 30px;
+}
+#a1,#a2,#a3,#a4,#a12{
+    color: white;
+}
+#lasti{
+    border: 5px white ;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+}

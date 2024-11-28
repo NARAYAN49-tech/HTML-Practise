@@ -1,0 +1,53 @@
+#div1{
+    
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+#subdiv1{
+    background-color: white;
+}
+#subh2{
+    color: red;
+}
+.pre1{
+    color: black;
+}
+#a1,#a2,#a3,#a4{
+    color: black;
+}
+#NoStylesheets{
+    color: red;
+}
+#a12{
+    color: red;
+}
+#subh5{
+    color: black;
+}
+#astyle1{
+    background-color: red;
+    color: white;
+}
+#div2nd{
+    background-color: whitesmoke;
+    color: white;
+}
+#submit1,#submit2,#submit3,#submit4,#submit5{
+    background-color: red;
+    border: 4px;
+    border-radius: 10px;
+}
+#hh2,#pp2{
+    color: red;
+}
+.ddiivv{
+    background-color: #b0a5a5;
+}
+.lastdiv{
+    text-align: center;
+}
+.body{
+    width: 800px;
+    height: 1020px;
+}

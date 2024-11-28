@@ -1,0 +1,54 @@
+#image{
+    border-color: aquamarine;
+    border-radius: 2px;
+    border: 4px;
+}
+#baahu{
+    position:sticky;
+    margin-left: 0;
+}
+#jeff{
+    position:sticky;
+    margin-left: 0px;
+}
+#MN{
+    margin: 0px;
+    position:absolute;
+}
+#naru{
+    margin-left: 0px;
+    position:sticky;
+    
+}
+.seconddiv{
+    border-top-width: 40px;
+    border-bottom-width: 40px;
+    border-right-width: 40px;
+    border-left-width: 40px;
+    background-color: red;
+    border-color: blue;
+    border-bottom: 4px;
+    border-style: dotted;
+}
+h1{
+    text-align: center;
+    background-color: red;
+    border: 2px black ;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-color: aquamarine;
+    border-bottom: dashed;
+    border-top: dotted;
+}
+.para1{
+    border: 10px;
+    border-color: blue;
+    border-top: 30px;
+    border-bottom: 40px;
+    background-color: black;
+    color: red;
+}
+#para2{
+    color: green;
+    background-color: brown;
+}
